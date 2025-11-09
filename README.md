@@ -1,6 +1,6 @@
 # floraalr.github.io
 
-## Tutoril de la pipeline DADA2
+## Tutoriel de la pipeline DADA2
 
 Vous trouverez ici le tutoriel DADA2 annoté et expliquéé à chaque étape. 
 
