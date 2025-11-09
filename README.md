@@ -1,4 +1,4 @@
-# floraalr.github.io
+# Projets d'analyses de données et métabarcodes Flora Larreur
 
 ## Tutoriel de la pipeline DADA2
 
