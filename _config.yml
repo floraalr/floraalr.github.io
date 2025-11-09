@@ -1,0 +1,8 @@
+# Thème du site
+theme: jekyll-theme-cayman
+
+# Titre du site (affiché dans l’onglet du navigateur)
+title: Analyses de données et métabarcodes par Flora Larreur, M1 MFA, UBO Brest
+
+# Description du site (pour moteurs de recherche)
+description: Ceci est monSite GitHub où vous trouverez tout mes tutoriels de pipeline bioinformatiques. Vous y trouverez essentiellement mes travaux d'analyse de données métabarcodes sur des communautés microbiennes. 
