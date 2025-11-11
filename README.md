@@ -1,6 +1,4 @@
-# Projets d'analyses de données et métabarcodes Flora Larreur
-
-Etudiante en Master 1 de micobiologie à l'Université de Brest Occidentale, je présente dès à présent sur ce site mes travaux d'analyse de données métabarcodes.
+# Introduction
 
 Les analyses de données métabarcodes permettent d’étudier la composition des communautés microbiennes à partir de séquences d’ADN extraites d’un échantillon environnemental. Le gène de l’ARN ribosomique 16S est souvent ciblé car il est présent chez toutes les bactéries et contient des régions conservées et variables, idéales pour l’identification taxonomique. Cette approche offre une vision globale de la diversité microbienne sans culture préalable. Elle est essentielle en écologie microbienne, santé ou agroalimentaire pour comparer la structure et la dynamique des microbiotes.
 
